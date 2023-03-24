@@ -14,6 +14,7 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 /Assets/Plugins/
+/Packages/
 #/Assets/Plugins/*/*[Aa]gora*.*
 #/Assets/Plugins/*/*[Aa]gora*.*/
 #/Assets/Plugins/*/*[Aa]gora*.*.*
